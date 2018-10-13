@@ -1,0 +1,73 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    }
+    .logo img{
+        height: 32px;
+        display: block;
+        max-width: 100%;
+        opacity: 1!important;
+    }
+
+body{
+    color: #666666;
+}
+.yc{
+    text-align:center;
+}
+
+.hhpjh a img{
+
+    top:0;  
+    bottom:0;  
+    left:0;  
+    right:0;  
+    width:100%;  
+    margin:auto;
+}
+a{
+    text-decoration: none;
+    color: #666;
+}
+.bg{
+    display: table;
+    background: url('bj.jpg');
+    background-color:black;
+    height: 120px;
+    margin: auto;
+    background-size: cover;
+    
+}
+
+.bg{
+    background:url(bj.jpg) no-repeat center;
+    overflow: hidden;
+    background-size:cover;  
+    width:100%;
+    margin:auto;
+    text-align:center;
+    vertical-align: middle;
+}
+.jh{
+    color: #eee;
+    font-size: 18pt;
+    line-height: 120px;
+    margin-left:5px;
+    display:inline-block;height:100%;vertical-align: middle;
+}
+.text{
+    margin: 8px;
+}
+/*圣经样式*/
+.jw{
+    font-size: 14pt;
+    width: 100%;
+}
+h3{
+    text-align: center;
+}
+/* 分享题目字体大小*/
+.fx{
+    font-size: 14pt;
+}
